@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto</h1>
 <h3 align="center">An Indie game developer from Romania</h3>
 
-- 🔭 I’m currently working in Unity using C#
-
-- 🌱 I’m currently learning **C#, Kotlin**
+- 🌱 I’m currently learning **Unity, C#, Kotlin**
 
 - 📫 How to reach me **lazarroberto121@gmail.com**
 
