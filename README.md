@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto</h1>
 <h3 align="center">An Indie game developer from Romania</h3>
 
-- 🔭 I’m currently working on [Lumin] (not ready yet)
+- 🔭 I’m currently working in Unity using C#
 
 - 🌱 I’m currently learning **C#, Kotlin**
 
