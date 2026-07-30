@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Roberto</h1>
 <h3 align="center">An Indie game developer from Romania</h3>
 
-- 🔭 I’m currently working on [TwitchBot](https://github.com/Roberto16121/TwitchBot)
+- I’m currently working on [Pack and Ship: Warehouse Simulator](https://store.steampowered.com/app/4262870/Pack_and_Ship_Warehouse_Simulator/)
 
-- 🌱 I’m currently learning **Unreal Engine, C#, C++**
+- I’m currently learning **Unreal Engine, C++, C#**
 
-- 📫 How to reach me **lazarroberto121@gmail.com**
+- How to reach me **lazarroberto121@gmail.com**
 
-- ⚡ Fun fact **I powerlift for fun**
+- Fun fact **I powerlift for fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
